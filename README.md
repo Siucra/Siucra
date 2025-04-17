@@ -8,6 +8,7 @@
   ⋆˚࿔🌱 What I'm currently working on ⋆˚࿔
 - Learning the basics of GD Script through game development
 - Practicing problem solving with Java
+- Connecting a Java application file to a Database using MySQL
 - Learning the basics of frontend web development
   
   ⋆˚࿔📫 How to reach me ⋆˚࿔
