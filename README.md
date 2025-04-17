@@ -1,7 +1,7 @@
   ✿👋 Hi, I’m DB (@Siucra) ✿
   
   ⋆˚࿔👀 I’m just getting started on my coding journey! 🚀⋆˚࿔
-- I’m currently learning Java, GD Script, HTML, CSS and JavaScript.
+- I’m currently learning Java, GDScript, HTML, CSS and JavaScript.
 - I enjoy building cool projects and sharing what I learn along the way!
 
 
