@@ -15,4 +15,4 @@
   ⋆˚࿔📫 How to reach me ⋆˚࿔
 - You can find me on LinkedIn -> https://www.linkedin.com/in/denise-balasmeh/
 
-  ✿ Thank you for stopping by ✿
+  ✿ Thank you for stopping by! ✿
