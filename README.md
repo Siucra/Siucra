@@ -6,11 +6,8 @@
 
 
   ⋆˚࿔🌱 What I'm currently working on ⋆˚࿔
-- Learning the basics of GD Script through game development
-- Exploring Object Oriented Programming in Java by building an EmployeeDirectory application
+- Creating a Minecraft mod with Java using Forge and IntelliJ
 - Getting familiar with Java GUI components by developing a Logic Gate Simulator using Boolean Algebra
-- Connecting a Java application file to a Database using MySQL
-- Creating a game mod using C# and .NET Framework in Visual Studio
   
   ⋆˚࿔📫 How to reach me ⋆˚࿔
 - You can find me on LinkedIn -> https://www.linkedin.com/in/denise-balasmeh/
