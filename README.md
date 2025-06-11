@@ -7,7 +7,7 @@
 
   ⋆˚࿔🌱 What I'm currently working on ⋆˚࿔
 - Creating a Minecraft mod with Java using Forge and IntelliJ
-- Getting familiar with Java GUI components by developing a Logic Gate Simulator using Boolean Algebra
+- Getting familiar with Java GUI components by developing a Rock Paper Scissors game
   
   ⋆˚࿔📫 How to reach me ⋆˚࿔
 - You can find me on LinkedIn -> https://www.linkedin.com/in/denise-balasmeh/
