@@ -1,7 +1,7 @@
   ✿👋 Hi, I’m DB (@Siucra) ✿
   
   ⋆˚࿔🚀 I’m just getting started on my coding journey! 🚀⋆˚࿔
-- I’m currently improving my Java skills!
+- I’m currently improving my Java skills.
 - I enjoy building cool projects and sharing what I learn along the way!
 
 
