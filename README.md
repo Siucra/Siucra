@@ -4,7 +4,6 @@
 - I’m currently improving my Java skills.
 - I enjoy building cool projects and sharing what I learn along the way!
 
-
   ⋆˚࿔🌱 What I'm currently working on ⋆˚࿔
 - Creating a Minecraft mod with Java using Forge and IntelliJ
   
