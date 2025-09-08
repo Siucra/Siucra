@@ -7,6 +7,7 @@
   ⋆˚࿔🌱 What I'm currently working on ⋆˚࿔
 - Creating a Minecraft mod with Java using Forge and IntelliJ
 - Applying OOP principals and GUI elements to a Zoo Directory App
+- Creating a mini library management web app using JSON, JavaScript, Node.js etc.
   
   ⋆˚࿔📫 How to reach me ⋆˚࿔
 - You can find me on LinkedIn -> https://www.linkedin.com/in/denise-balasmeh/
