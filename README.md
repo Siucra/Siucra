@@ -5,7 +5,6 @@
 - I enjoy building cool projects and sharing what I learn along the way!
 
   ⋆˚࿔🌱 What I'm currently working on ⋆˚࿔
-- Creating a Minecraft mod with Java using Forge and IntelliJ
 - Creating a mini library management web app using JSON, JavaScript, Node.js etc.
   
   ⋆˚࿔📫 How to reach me ⋆˚࿔
