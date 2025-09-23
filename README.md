@@ -6,7 +6,7 @@
 
   ⋆˚࿔🌱 What I'm currently working on ⋆˚࿔
 - Creating a mini library management web app using JSON, JavaScript, Node.js etc.
-- Transforming my Rock-Paper-Scissors game from Java to Python to strengthen cross-language skills.
+- Transforming my Employee-Directory project from Java to Python to strengthen cross-language skills.
   
   ⋆˚࿔📫 How to reach me ⋆˚࿔
 - You can find me on LinkedIn -> https://www.linkedin.com/in/denise-balasmeh/
