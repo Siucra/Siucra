@@ -6,8 +6,7 @@
 
   ⋆˚࿔🌱 What I'm currently working on ⋆˚࿔
 - Creating a mini library management web app using JSON, JavaScript, Node.js etc.
-- Transforming my Employee-Directory project from Java to Python to strengthen cross-language skills.
-- Gained practical experience with the fundamentals of machine learning through a hands-on workshop using a (SL) trained machine
+- Participated in a hands-on game-building day where I created and published my own Roblox title, sponsored by Bura Games and Nexus Interactive.
   
   ⋆˚࿔📫 How to reach me ⋆˚࿔
 - You can find me on LinkedIn -> https://www.linkedin.com/in/denise-balasmeh/
